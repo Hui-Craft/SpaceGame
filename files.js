@@ -3,5 +3,7 @@ module.exports = [
 
     'pages/concept/concept',
     'pages/concept/storyline',
-    'pages/concept/spacestation'
+    'pages/concept/spacestation',
+
+    'includes/bottom'
 ];
