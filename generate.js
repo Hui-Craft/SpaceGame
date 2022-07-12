@@ -5,15 +5,40 @@ var pages = require('./files');
 
 log('Generating README.md...');
 var content;
+var toc;
+var tocs;
+
+toc = [];
+tocs = '# Table Of Contents\n';
 content = '';
 
 for(let i=0; i<pages.length; i++) {
     log(`Adding ${pages[i]}...`);
     var fc = fs.readFileSync('./files/' + pages[i] + '.md').toString();
 
+    var name = String(pages[i]).split('/')[String(pages[i]).split('/').length-1];
+    name = repl(name, '-', ' ');
+    // name = name.split('');
+    // name.split('')[0] = String(name.split('')[0]).toUpperCase();
+
+    switch(name) {
+        case "top":
+        case "bottom":
+            break;
+        default:
+            toc.push(name);
+    }
+    // toc.push(name);
+
     content += fc + '\n';
     log(`Added ${pages[i]}`);
 }
+
+for (let o=0; o<toc.length; o++) {
+    tocs += `- ${toc[o]}\n`;
+}
+
+content = repl(content, '{{TOC}}', tocs)
 
 log(`Added all pages!`);
 log(`Generating footer...`);
@@ -26,3 +51,9 @@ log(`Footer generated`);
 fs.writeFileSync('./README.MD', content);
 var End = Date.now();
 log(`\n\tGenerated in ${End-Start} ms!`);
+function repl(inp, froms, tos) {
+    while(String(inp).includes(froms)) {
+        inp = String(inp).replace(froms, tos);
+    }
+    return inp;
+}

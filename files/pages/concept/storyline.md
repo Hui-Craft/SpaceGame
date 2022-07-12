@@ -2,10 +2,15 @@
 #### The start
 You (the player) wake up somewhere at an unknown planet. You don't remember anything (except fot your name). You see a ship. (Your ship.) Stranded and broken. You look inside and take some tools.
 
-You start chopping some trees. Eventually you see someone walking: a villager. The stranger takes you to his village. The villagers need help with something (I don't know what exactly. Make an issue if you have an idea) and you help them.
-In return they give you metal/resources to repair your ship. They also let you choose a pet. (A cat or a dog) After a week (in minecraft days) you finally repaired your ship.
-The only thing you need is fuel. That's why you started working in the villagers mine. After a day of mining, you ot enough fuel to launch your ship to leave the planet.
-You leave the planet.
+You start chopping some trees. Eventually you see someone walking: a villager. The stranger takes you to his village. The villagers need help with something (I don't know what exactly. Make an issue if you have an idea) and you help them.<br />
+In return they give you metal/resources to repair your ship. They also let you choose a pet. (A cat or a dog) After a week (in minecraft days) you finally repaired your ship.<br />
+The only thing you need is fuel. That's why you started working in the villagers mine. After a day of mining, you ot enough fuel to launch your ship to leave the planet.<br />
+You leave the planet.<br />
 
 ### Space
-*Coming soon*
+Once you enter space, you see a ship. The ship is a trading ship.<br />
+You dock your ship at the trading ship and enter the trading ship.<br />
+You explore the ship and after 10 minutes you see alot of posters advertising some sort of race.<br />
+Because you need money, you enter the race.
+#### The race
+-
