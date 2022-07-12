@@ -13,4 +13,6 @@ You dock your ship at the trading ship and enter the trading ship.<br />
 You explore the ship and after 10 minutes you see alot of posters advertising some sort of race.<br />
 Because you need money, you enter the race.
 #### The race
--
+You are racing, but your ship is really slow. When the other person is almost at the finish line, he crashed.<br />
+His life support is failing. You decide to help him.<br />
+Because you helped him, he givs you his **old** spacestation!<br />
