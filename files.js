@@ -1,5 +1,6 @@
 module.exports = [
     'includes/top',
+    'includes/notes',
 
     'pages/concept/concept',
     'pages/concept/storyline',
