@@ -1,0 +1,20 @@
+{
+  "name": "spacegame",
+  "version": "1.0.0",
+  "description": "This repo will explain the HuiCraft SpaceGame concept and does NOT contain any code. The codes of the plugins will be in different repo's.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hui-Craft/SpaceGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hui-Craft/SpaceGame/issues"
+  },
+  "homepage": "https://github.com/Hui-Craft/SpaceGame#readme"
+}
