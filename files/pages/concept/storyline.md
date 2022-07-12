@@ -15,4 +15,4 @@ Because you need money, you enter the race.
 #### The race
 You are racing, but your ship is really slow. When the other person is almost at the finish line, he crashed.<br />
 His life support is failing. You decide to help him.<br />
-Because you helped him, he givs you his **old** spacestation!<br />
+Because you helped him, he gives you his **old** spacestation!<br />
