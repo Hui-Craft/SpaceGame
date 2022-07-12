@@ -6,5 +6,6 @@ module.exports = [
     'pages/concept/storyline',
     'pages/concept/spacestation',
 
+    'pages/_/adding-content',
     'includes/bottom'
 ];
