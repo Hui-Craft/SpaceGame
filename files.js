@@ -7,6 +7,7 @@ module.exports = [
     'pages/concept/spacestation',
 
     'pages/tech/main',
+    'pages/tech/servers',
 
     'pages/_/adding-content',
     'includes/bottom'

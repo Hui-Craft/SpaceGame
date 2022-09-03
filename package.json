@@ -2,7 +2,7 @@
   "name": "spacegame",
   "version": "1.0.0",
   "description": "This repo will explain the HuiCraft SpaceGame concept and does NOT contain any code. The codes of the plugins will be in different repo's.",
-  "main": "index.js",
+  "main": "generate.js",
   "scripts": {
     "build": "node generate.js"
   },
